@@ -1,0 +1,21 @@
+body{
+    background-color: cadetblue;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    background-color:#D3EBCD;
+    position:absolute;
+    top: 9%;
+    padding: 10px;
+    margin: 25px;
+    
+}
+
+.main img{
+    width: 30%;
+    position: relative;
+    left: 35%;
+}

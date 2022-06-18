@@ -1,0 +1,38 @@
+body{
+    background-color: aliceblue;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(88, 201, 201);
+    margin: 25px;
+    padding: 25px;
+    border-radius: 20px;
+    justify-content: center;
+
+}
+
+img{
+    border-radius: 20px;
+}
+
+h2{
+    text-align: center;
+    border: 5px solid black;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+h1{
+    text-align: center;
+   
+}
+
+figure{
+    display: flex;
+    flex-direction:row;
+}
+
+
+

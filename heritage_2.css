@@ -1,0 +1,19 @@
+
+div{
+   display: flex;
+   flex-direction: row;
+    
+}
+
+section{
+    flex: 50%;
+    margin:5px ;
+}
+div img{
+    flex: 50%;
+    
+}
+
+img{
+    width: 100%;
+}

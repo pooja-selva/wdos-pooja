@@ -1,0 +1,35 @@
+body{
+    background-color:#D3EBCD;
+    color: aliceblue;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    background-color:#839AA8;
+    margin: 25px;
+    padding: 25px;
+    border-radius: 20px;
+    justify-content: center;
+
+}
+
+img{
+    border-radius: 20px;
+}
+
+h2{
+    text-align: center;
+    border: 5px solid aliceblue;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+h1{
+    text-align: center;
+   
+}
+
+
+
+
